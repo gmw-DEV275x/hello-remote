@@ -1,1 +1,2 @@
 Updated on GitHub
+\nA new line added to the remote file
